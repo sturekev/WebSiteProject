@@ -14,7 +14,7 @@ python -m venv .venv
 ```
 **Instalation requirement**
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 **Local front end visual or test**
